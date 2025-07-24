@@ -1,3 +1,3 @@
 # demo
 This is my 1st git repo.<br>
-Author- Samrudh S
+Author- Samrudh S <b>(Wassup)</b>
